@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "United We Stand: Интервью с Оле Гуннаром Сульшером"
-date: 2020-05-21
+date: 2020-05-22
 description: 
 image: https://telegra.ph/file/f1daf3079bd511bf02a25.png
 author: Server Khalilov
