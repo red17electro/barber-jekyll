@@ -5,8 +5,9 @@
   "version": "1.0.0",
   "scripts": {
     "start": "bundle exec jekyll serve",
-    "build": "bundle exec jekyll build",
+    "build": "bundle exec jekyll build && npm run copy",
     "deploy": "gulp build && bundle exec jekyll build && s3-website deploy _site",
+    "copy": "cp -r ./_site  ./docs",
     "gulp": "gulp"
   },
   "author": {

@@ -23,14 +23,14 @@ formcarry: https://formcarry.com/s/HkIo0nMb7
 disqus: united-fc
 
 # MailChimp settings
-mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
+mailchimp_action: #https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
+mailchimp_input: #b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
   - name: Server Khalilov
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+    bio: #Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
+    url: #http://thomasvaeth.com
 
 # Pagination settings
 pagination:
@@ -51,7 +51,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'United FC'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
