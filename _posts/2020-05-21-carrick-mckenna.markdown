@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Почему Каррик и МакКенна важны для 'Юнайтед' Сульшера?"
+title: "Почему Каррик и МакКенна важны для «Юнайтед» Сульшера?"
 date: 2020-05-21
 description: 
 image: https://telegra.ph/file/104d69d2a80fabb96c953.png

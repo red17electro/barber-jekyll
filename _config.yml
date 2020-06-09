@@ -10,14 +10,14 @@ description: >
   Это блог-платформа телеграм канала @United_FC
 url: https://unitedfc.blog
 twitter_username:
-default_img: /assets/images/seo.jpg
+default_img: ""
 social:
   - name: telegram
     url: "https://t.me/united_fc"
 
 # Contact settings
-contact_img: /assets/images/placeholder-28.jpg
-formcarry: https://formcarry.com/s/HkIo0nMb7
+contact_img: #/assets/images/placeholder-28.jpg
+formcarry: #https://formcarry.com/s/HkIo0nMb7
 
 # Disqus settings
 disqus: united-fc
