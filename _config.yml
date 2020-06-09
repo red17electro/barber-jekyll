@@ -12,23 +12,15 @@ url: http://barber.samesies.io
 twitter_username:
 default_img: /assets/images/seo.jpg
 social:
-  - name: twitter
-    url: ""
-  - name: instagram
-    url: ""
-  - name: linkedin
-    url: ""
-  - name: github
-    url: ""
-  - name: codepen
-    url: ""
+  - name: telegram
+    url: "https://t.me/united_fc"
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
 formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Disqus settings
-disqus: test-apkdzgmqhj
+disqus: united-fc
 
 # MailChimp settings
 mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
