@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Эррера: 'Жозе, я отправлюсь за Азаром даже в туалет'"
-date: 2020-06-08
+date: 2020-06-07
 description: 
 image: https://unitedfc.blog/assets/images/herrera/1.png
 author: Server Khalilov
