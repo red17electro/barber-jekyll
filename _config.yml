@@ -2,7 +2,7 @@
 email: ""
 baseurl: ""
 permalink: /:year/:month/:day/:title/
-google_analytics: 
+google_analytics: UA-169360519-1
 
 name: Server Khalilov
 title: United FC
