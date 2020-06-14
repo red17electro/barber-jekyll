@@ -3,7 +3,7 @@ layout: post
 title: "Дэниел Тейлор: Следующие два месяца покажут, подходит ли Сульшер «Юнайтед»"
 date: 2020-06-14
 description: 
-image: https://cdn.theathletic.com/app/uploads/2020/06/13085656/ole-1024x815.jpg
+image: /assets/images/2020-06-14/s1.jpg 
 author: Daniel Taylor (перевод - Server Khalilov)
 tags: 
   - Solskjaer
