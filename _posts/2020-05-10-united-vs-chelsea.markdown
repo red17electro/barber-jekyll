@@ -426,8 +426,6 @@ _Так вышло, что несмотря на море эмоций, полу
 
 ![](/assets/images/2020-05-10/u_vs_che_58.jpg)
 
-<figure contenteditable="false"><div class="figure_wrapper"><div class="iframe_wrap"><div class="iframe_helper" style="padding-top: 132.029%;"><iframe src="https://telegra.ph/embed/telegram?url=https%3A%2F%2Ft.me%2FUnited_FC%2F247" width="640" height="845" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no"></iframe></div></div></div><span class="cursor_wrapper" contenteditable="true"></span><figcaption class="editable_text" data-placeholder="Caption (optional)">Гид оказался вполне себе с чувством юмора 😃</figcaption></figure>
-
 ![](/assets/images/2020-05-10/u_vs_che_59.jpg)
 
 А вот такое на "Олд Траффорд" меню, если кому вдруг интересно. В целом, цены адекватные, но во время перерыва сквозь очередь не пробиться.
